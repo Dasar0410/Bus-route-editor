@@ -1,3 +1,4 @@
+<Antall stoppested>
 <Stoppested nr int>
 <nabostoppested> <nabostoppested> <nabostoppested>....
 <nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
