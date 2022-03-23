@@ -9,13 +9,15 @@ using namespace std;
 Stoppesteder gStoppestederBase;
 Ruter gRuterBase;
 
-//  extern Stoppesteder gStoppestederBase;
-//  extern Ruter gRuterBase;
+extern Stoppesteder gStoppestederBase;
+extern Ruter gRuterBase;
 
 
 int main()  {
   char valg;
 
+  Ruter::siMarkusFlereGanger;
+/*
   gStoppestederBase.lesFraFil();
   gRuterBase.lesFraFil();
 
@@ -33,7 +35,7 @@ int main()  {
 
   gStoppestederBase.skrivTilFil();
   gRuterBase.skrivTilFil();
-
+*/
   cout << "\n\n";
   return 0;
 }

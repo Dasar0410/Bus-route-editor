@@ -11,11 +11,7 @@
 #include "Ruter.h"
 #include "Rute.h"
 
-class Ruter{
-private:
-//map <int, Rute*> Rutene;
-
-public:
-
-
-};
+void siMarkusFlereGanger(){
+    for (int i = 0; i<5; i++)
+    Rute::siMarkus;
+}
