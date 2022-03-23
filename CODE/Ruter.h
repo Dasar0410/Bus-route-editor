@@ -19,7 +19,7 @@ private:
     map <int, Rute*> gRuter; // map med alle unikt nummererte Rute’r
 
 public:
-void lesTilFil();
+void skrivTilFil();
 void lesFraFil();
 };
 
