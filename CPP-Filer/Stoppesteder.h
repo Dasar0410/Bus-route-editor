@@ -11,11 +11,17 @@
 
 #ifndef __STOPPESTEDER_H
 #define __STOPPESTEDER_H
+#include <vector>
+#include "Stoppested.h"
 
 class Stoppesteder{
+private:
+vector <Stoppested*> Stoppestedene; // usortert vector med alle mulige stoppesteder (for både bane og buss) overalt i hele byen. Nye stoppesteder legges alltid til bakerst.
+
+public:
+
 
 };
-
 
 
 #endif

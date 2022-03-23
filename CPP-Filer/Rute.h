@@ -1,9 +1,12 @@
 #include <string>
 #include <iostream>
+#include <list>
 class Rute
 {
 private:
-std::string Markus;
+    struct Stopp{ // usikker på denne mekus hjelp
+
+    };
+    list <Stopp*> gStopp;
 public:
-void siMarkus();
 };

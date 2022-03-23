@@ -15,19 +15,18 @@ extern Ruter gRuterBase;
 
 int main()  {
   char valg;
+  cout << "bruh";
 
-  Ruter::siMarkusFlereGanger;
-/*
   gStoppestederBase.lesFraFil();
   gRuterBase.lesFraFil();
 
-  skrivMeny();
+  void skrivMeny();
   valg = lesChar("\nKommando");
 
   while (valg != 'Q')  {
     switch(valg)  {
-      case 'S':  gStoppestederBase.handling();  break;
-      case 'R':  gRuterBase.handling();         break;
+      case 'S':  //gStoppestederBase.handling();  break;
+      case 'R':  //gRuterBase.handling();         break;
       default:   skrivMeny();                   break;
     }
     valg = lesChar("\nKommando");

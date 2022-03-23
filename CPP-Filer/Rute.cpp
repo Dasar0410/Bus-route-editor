@@ -15,9 +15,6 @@
 #include <string>
 using namespace std;
 
-void Rute::siMarkus(){
-    cout << "markus!!";
-}
 
 
 

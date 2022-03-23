@@ -16,10 +16,9 @@
 
 class Bane: public Rute{
     private:
-
+    int antVogner; // faste antall vogner som går på vedkommende banestrekning
+    int vognLengde; // faste lengden (i meter) på dette banesettet
     public:
-    string lesInnMarkus();
-
 };
 
 #endif

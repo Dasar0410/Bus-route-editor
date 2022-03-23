@@ -14,13 +14,6 @@
 #include "Stoppested.h"
 using namespace std;
 
-class Stoppesteder{
-private:
-vector <Stoppested*> Stoppestedene;
 
-public:
-
-
-}
 
 

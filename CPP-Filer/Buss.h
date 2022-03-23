@@ -14,7 +14,12 @@
 #include "Rute.h"
 
 class Buss : public Rute{
+private:
+int antSitteplasser; // faste antall sitteplasser
+int antStaaPlasser; // faste antall ståplasser
+bool leddbuss; // om bussen er ledd buss eller ei
 
+public:
 };
 
 #endif

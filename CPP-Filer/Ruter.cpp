@@ -10,8 +10,3 @@
 
 #include "Ruter.h"
 #include "Rute.h"
-
-void siMarkusFlereGanger(){
-    for (int i = 0; i<5; i++)
-    Rute::siMarkus;
-}
