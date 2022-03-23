@@ -1,7 +1,7 @@
 #include <iostream>
-#include "stoppesteder.h"
-#include "ruter.h"
-#include "funksjoner.h"
+#include "Stoppesteder.h"
+#include "Ruter.h"
+#include "Funksjoner.h"
 #include "LesData3.h"
 using namespace std;
 
