@@ -9,8 +9,8 @@
  */
 
 
-#ifndef __LESDATA3_H
-#define __LESDATA3_H
+#ifndef __Ruter_H
+#define __Ruter_H
 
 class Ruter;
 
