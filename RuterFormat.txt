@@ -1,0 +1,7 @@
+<Ruteid> <Bane>
+<Antall vogner> <lengde i meter>
+<Ruteid> <Buss>
+<Antall sitteplasser> <antall ståplasser>
+<bool er alle bussene leddbuss eller nei>
+
+

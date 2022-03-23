@@ -1,0 +1,11 @@
+<Stoppested nr int>
+<nabostoppested> <nabostoppested> <nabostoppested>....
+<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
+
+<Stoppested nr int>
+<nabostoppested> <nabostoppested> <nabostoppested>....
+<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
+
+<Stoppested nr int>
+<nabostoppested> <nabostoppested> <nabostoppested>....
+<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
