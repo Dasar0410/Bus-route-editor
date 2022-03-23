@@ -13,9 +13,9 @@
 
 class Ruter{
 private:
-map <int, Rute*> Rutene;
+//map <int, Rute*> Rutene;
 
 public:
 
 
-}
+};
