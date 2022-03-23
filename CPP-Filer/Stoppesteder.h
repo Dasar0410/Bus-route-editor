@@ -19,6 +19,8 @@ private:
 vector <Stoppested*> Stoppestedene; // usortert vector med alle mulige stoppesteder (for både bane og buss) overalt i hele byen. Nye stoppesteder legges alltid til bakerst.
 
 public:
+void lesFraFil();
+void skrivTilFil();
 
 
 };

@@ -34,7 +34,6 @@ int main()  {
 
   gStoppestederBase.skrivTilFil();
   gRuterBase.skrivTilFil();
-*/
   cout << "\n\n";
   return 0;
 }
