@@ -1,4 +1,4 @@
-**
+/**
  *   Enkel verktøykasse for å lese:  tegn og tall.
  *
  *   FULLSTENDIG IDENTISK til 'LesData2.h' bare at adskilt
