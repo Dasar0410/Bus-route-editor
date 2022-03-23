@@ -1,12 +1,4 @@
-<Antall stoppested>
-<Stoppested nr int>
-<nabostoppested> <nabostoppested> <nabostoppested>....
-<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
-
-<Stoppested nr int>
-<nabostoppested> <nabostoppested> <nabostoppested>....
-<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
-
-<Stoppested nr int>
-<nabostoppested> <nabostoppested> <nabostoppested>....
-<nabostoppestedtid> <nabostoppestedtid> <nabostoppestedtid>
+<int Antall stoppested>
+<int nabostoppestedtid> <string nabostoppested> // if isdigit() = false så er ikke tid satt og gå videre til navn
+<int nabostoppestedtid> <string nabostoppested> 
+ 
